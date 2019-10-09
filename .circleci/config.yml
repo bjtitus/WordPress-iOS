@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  ios: wordpress-mobile/ios@0.0.36
+  ios: wordpress-mobile/ios@dev:better-cocoapods-caching
   git: wordpress-mobile/git@0.0.36
 
 commands:
